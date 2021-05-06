@@ -1,4 +1,4 @@
-# Sample for my securing API using NDK
+## Sample for my securing API using NDK
 - Install NDK from your SDK Tools android studio.
 - Create directory <b>jni</b> under the <b><i>app/src/main</i></b>.
 - in the <b>jni</b> directory, create a file <b>Android.mk</b> and add this code to it :
