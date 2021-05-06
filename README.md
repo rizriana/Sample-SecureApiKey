@@ -43,7 +43,7 @@ android {
 - Call this method
 ```
 init {
-        System.loadLibrary("key")
+        System.loadLibrary("keys")
 }
 ```
 - Declare a kotlin external function
