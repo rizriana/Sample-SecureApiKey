@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SampleSecureApiKey</string>
+    <string name="show_api_key">Show Api Key</string>
 </resources>
